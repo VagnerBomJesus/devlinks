@@ -15,7 +15,9 @@
 
 <br>
 
- 
+<p align="center">
+  <img alt="projeto DevLinks" src=".assets/avatar.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
